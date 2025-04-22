@@ -1,0 +1,10 @@
+# ລະບຸໄຟລ .env ເພື່ອບໍ່ໃຫ້ Git ຕິດຕາມ
+.env
+
+# ເພີ່ມໄຟລ/ໂຟລເດີອື່ນໆທີ່ບໍ່ຕ້ອງການໃຫ້ Git ຈັດການ
+vendor/
+node_modules/
+.idea/
+*.log
+function.php
+calendar/includes/connection.php
